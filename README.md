@@ -20,9 +20,8 @@ The aim of this plugin is to be light weight with minimal dependencies. Thus, th
 
 ## Installation
 
-* With [Pathogen](https://github.com/tpope/vim-pathogen): Place `vim-markdown-preview/` in `.vim/bundle/`.
 * With [Vundle](https://github.com/VundleVim/Vundle.vim):
-    * Add `Plugin 'JamshedVesuna/vim-markdown-preview'` to your `.vimrc`.
+    * Add `Plugin 'adampresley/vim-markdown-preview-mdtohtml'` to your `.vimrc`.
     * Launch `vim` and run `:PluginInstall`
 * With [Plug](https://github.com/junegunn/vim-plug):
 	 * Add `Plug 'adampresley/vim-markdown-preview-mdtohtml'` to your `.vimrc`.
