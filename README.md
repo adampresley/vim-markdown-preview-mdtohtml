@@ -14,7 +14,7 @@ A markdown previewer using Golang mdtohtml
 
 ## Intro
 
-A small Vim plugin for previewing markdown files in a browser using the [mdtohtml](https://github.com/gomarkdown/mdtohtml) tool. It opens whatever browser is set as your system default.
+A small Vim plugin for previewing markdown files in a browser using the [mdtohtml](https://github.com/gomarkdown/mdtohtml) tool. It opens whatever browser is set as your system default. This plugin is a variation on the plugin [Vim Markdown Preview](https://github.com/JamshedVesuna/vim-markdown-preview).
 
 The aim of this plugin is to be light weight with minimal dependencies. Thus, there is *no* polling engine or webserver involved.
 
