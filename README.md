@@ -8,13 +8,7 @@ A markdown previewer using Golang mdtohtml
     - [Mac OS X](#mac-os-x)
     - [Unix](#unix)
 - [Options](#options)
-    - [Image rendering & save on buffer write](#toggle)
     - [Hotkey](#hotkey)
-    - [Browser](#browser)
-    - [Temp File](#temp)
-    - [Github Flavoured Markdown](#github)
-    - [Markdown.pl](#perl)
-    - [Pandoc](#pandoc)
     - [Use xdg-open](#xdg)
 - [Behind the Scenes](#behind-the-scenes)
 
