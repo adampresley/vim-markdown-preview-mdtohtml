@@ -35,7 +35,7 @@ if !exists("g:vim_markdown_preview_mdtohtml_use_xdg_open")
 endif
 
 if !exists("g:vim_markdown_preview_mdtohtml_css")
-  let g:vim_markdown_preview_mdtohtml_css=expand("<sfile>:p:h")."/modest.css"
+  let g:vim_markdown_preview_mdtohtml_css=expand("<sfile>:p:h")."/github.css"
 endif
 
 if !exists("g:vim_markdown_preview_mdtohtml_hotkey")
