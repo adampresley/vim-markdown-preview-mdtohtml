@@ -41,6 +41,8 @@ This tool requires [mdtohtml](https://github.com/gomarkdown/mdtohtml). To instal
 go get -u github.com/gomarkdown/mdtohmtl
 ```
 
+This will create the **mdtohtml** executable in the default Go *bin* folder. Ensure that folder is in your system PATH.
+
 ### Mac OS X:
 
 * [Safari](https://www.apple.com/safari/)
